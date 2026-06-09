@@ -57,9 +57,9 @@ Le site est entièrement responsive :
 ---
 
 ## Maquette du projet
-Voici la structure UX utilisée :
+Voici la structure de la maquette hiérachique utilisée :
 
-![Maquette IgoTech](Maquette.jpg)
+![Maquette IgoTech](maquette.png)
 
 ---
 

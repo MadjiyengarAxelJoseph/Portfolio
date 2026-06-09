@@ -175,7 +175,7 @@ padding:20px;
 margin-top:40px;
 }
 
-/* RESPONSIVE */
+/* RESPONSIVITE */
 @media(max-width:768px){
 .navbar{
 flex-direction:column;

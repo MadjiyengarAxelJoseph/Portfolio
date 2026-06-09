@@ -7,7 +7,7 @@
 ---
 
 # CAHIER DE CHARGE
-Dans le cadre d'un travail pratique en Génie logiciel,il nous a été donné de mettre en place un portfolio pour l'entreprise de Technologie IgoTech.Dans ce cadre le site de publicité sera entièrement statique. Nous detaillérons beaucoup plus le travail dans les liens suivantes.
+Dans le cadre d'un travail pratique en Génie logiciel,il nous a été donné de mettre en place un portfolio pour l'entreprise de Technologie IgoTech.Dans ce cadre le site de publicité sera entièrement statique. Nous detaillérons beaucoup plus le travail dans les lignes suivantes.
 ---
 
 ## Description
